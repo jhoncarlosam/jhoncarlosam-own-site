@@ -1,7 +1,7 @@
 # Jhon Acevedo's website
 ***
 ## Índice
-1. [Características](#Características:)
+1. [Características](#Características)
 2. [Contenido del proyecto](#contenido-del-proyecto)
 3. [Tecnologías](#tecnologías)
 4. [IDE](#ide)
@@ -12,7 +12,7 @@
 ***
 
 
-#### Características:
+#### Características
 
   - Portafolio personal.
   - Muro de articulos.
@@ -51,7 +51,7 @@ Invocar página index.html
 ***
 ### Demo
 
-Para ver el demo de la aplicación puede dirigirse a: [Primer JS -  Nota previo 1](https://).
+Para ver el demo de la aplicación puede dirigirse a: [jhoncarlosam-own-site](https://).
 
 ***
 ### Autor(es)
